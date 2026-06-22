@@ -402,6 +402,8 @@ public class f_utama extends javax.swing.JFrame {
     private void bcloseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bcloseActionPerformed
         // TODO add your handling code here:
         System.exit(0);
+        System.out.println("OOn");
+        
     }//GEN-LAST:event_bcloseActionPerformed
 
     /**
